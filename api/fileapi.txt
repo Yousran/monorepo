@@ -1,0 +1,6 @@
+buat folder kosong untuk meletakkan proyek anda
+
+buka terminal di direktori folder yang sudah dibuat lalu jalankan perintah berikut
+git clone --filter=blob:none --sparse <URL-repo-Anda> .
+
+git sparse-checkout set android
